@@ -10,14 +10,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tamagui/config": "^1.125.32",
+    "@tamagui/core": "^1.125.32",
+    "@tamagui/web": "^1.125.32",
     "expo": "~52.0.43",
+    "expo-image-picker": "~16.0.6",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
-    "react-native": "0.76.9"
+    "react-native": "0.76.9",
+    "tamagui": "^1.125.32"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
+    "@types/react-native": "^0.73.0",
     "typescript": "^5.3.3"
   },
   "private": true
