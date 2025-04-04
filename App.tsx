@@ -23,15 +23,15 @@ const mockPosts = [
     title: "2025/04/05",
     entries: [
       {
-        imageUri: "https://placekitten.com/600/400",
+        imageUri: "https://placehold.jp/150x300.png",
         comment: "朝ごはんを食べた",
       },
       {
-        imageUri: "https://placekitten.com/600/401",
+        imageUri: "https://placehold.jp/150x300.png",
         comment: "公園を散歩した",
       },
       {
-        imageUri: "https://placekitten.com/600/402",
+        imageUri: "https://placehold.jp/150x300.png",
         comment: "夜はカレーを食べた\nお腹が痛い",
       },
     ],
